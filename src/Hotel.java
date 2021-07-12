@@ -17,7 +17,7 @@ public class Hotel {
     private Scanner scanner;
     private Connection con;
     private Driver driver;
-    private static String url = "jdbc:postgresql://devweb2020.cis.strath.ac.uk:5432/cs253";
+    private static String url = "jdbc:postgresql://xxxxxx";
 
     /**
      * Default constructor for Hotel
